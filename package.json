@@ -14,7 +14,8 @@
     "gsap": "latest",
     "next": "15.2.4",
     "react": "^19",
-    "react-dom": "^19"
+    "react-dom": "^19",
+    "tw-animate-css": "^1.3.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.13",
